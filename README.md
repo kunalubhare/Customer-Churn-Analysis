@@ -1,5 +1,15 @@
 # Customer Churn Analysis
 
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](Dashboard/Executive_Dashboard.png)
+
+### Customer Insights & Recommendations
+
+![Customer Insights](Dashboard/Customer_Insights.png)
+
 ## Project Overview
 
 This project analyzes customer churn data from a telecom company to identify key factors influencing customer retention and churn. The analysis was performed using Python, SQL, and Power BI.
